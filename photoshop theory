@@ -1,0 +1,34 @@
+# Section A: Concept Application
+
+## 1. Pen Tool for High-Precision Paths
+
+The Pen Tool is selected for achieving high-precision paths because it allows accurate control over anchor points and curves. This makes it ideal for isolating products from cluttered or high-contrast backgrounds where clean and sharp edges are required. Unlike automatic selection tools, the Pen Tool provides smooth and precise outlines, especially around complex product shapes.
+
+## 2. Importance of Non-Destructive Masking
+
+Non-Destructive Masking is preferred over the Eraser Tool because it hides unwanted areas without permanently deleting pixel data. This allows designers to make iterative edge adjustments, restore hidden parts, and refine the mask later without damaging the original image. It provides greater flexibility and maintains image quality throughout the editing process.
+
+## 3. Role of Edge Refinement Techniques
+
+Edge Refinement techniques help eliminate background color fringing that appears when a product is moved from a busy environment to a clean backdrop. These techniques smooth rough edges, remove unwanted color contamination, and improve transitions around fine details such as hair, glass, or soft edges. This creates a cleaner and more professional composite image.
+
+## 4. Role of Contact Shadows
+
+Contact Shadows help ground a product realistically on its new background by creating the appearance that the product is physically touching the surface. Without contact shadows, the product may appear to float unnaturally. Proper shadows add depth, realism, and visual balance, making the final composition look more believable.
+
+## 5. Purpose of Global Color Grading
+
+Global Color Grading is applied to both the product and the new background to ensure consistent lighting, color temperature, and overall mood across the final composite. Matching tones and brightness helps blend all elements naturally, making the edited image appear cohesive and professionally integrated.
+# Section C: Mini Project
+
+## 1. Tool Justification
+
+I chose the Pen Tool over the standard Lasso Tool because it provides greater precision and smoother edges when selecting the product. The Pen Tool allows accurate control of curves and anchor points, which is important for creating clean cut-outs around detailed product shapes. In comparison, the Lasso Tool is less accurate and may produce rough or uneven edges.
+
+## 2. Workflow Logic
+
+Using a Layer Mask instead of the Eraser Tool preserves image quality because it is a non-destructive editing method. A Layer Mask only hides parts of the image rather than permanently deleting pixels. This allows future edits, refinements, and corrections without damaging the original product image, making the workflow more flexible and professional.
+
+## 3. Realism Outcome
+
+The addition of a custom shadow improves the realism of the product by making it appear naturally placed within the scene. Shadows create depth, dimension, and visual balance, which prevents the product from looking flat or floating. This enhances the customer’s perception of the product’s quality and makes the final image look more polished and trustworthy.
